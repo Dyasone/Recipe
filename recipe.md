@@ -5,9 +5,8 @@
     - Flour
     - Bacon
     - Cheese
-    - All of the best toppings
-    - Pineapple pen :)
-
+    
+   
 ## Procedure
 
     - Put Flour into a bowl with water
