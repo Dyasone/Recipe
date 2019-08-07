@@ -6,6 +6,7 @@
     - Bacon
     - Cheese
     - All of the best toppings
+    - Pineapple pen :)
 
 ## Procedure
 
